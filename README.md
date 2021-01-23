@@ -1,2 +1,2 @@
 # hkp-solutions-webdev-training
-HKP Solutions Training for Web Development
+HKP Solutions training for web development
